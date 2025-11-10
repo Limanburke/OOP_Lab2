@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<schedule>
+	<teacher name = "Emma Johnson" faculty = "Faculty of Sociology" department = "Methodology and Methods of Sociological Research">
+		<studyPlan>
+			<subject name = "Introduction to Social Research Methods" hours = "30">
+				<auditorium>"42"</auditorium>
+				<auditorium>"43"</auditorium>
+				<auditorium>"44"</auditorium>
+			</subject>
+		</studyPlan>
+		<studentGroup name = "SS-14">
+			<student>"Liam Davis"</student>
+			<student>"Ava Miller"</student>
+			<student>"Sophia Taylor"</student>
+			<student>"Jackson Young"</student>
+			<student>"Evelyn Lewis"</student>
+			<student>"Emily Allen"</student>
+			<student>"William Wilson"</student>
+			<student>"Abigail Walker"</student>
+			<student>"James Anderson"</student>
+			<student>"Isabella Thomas"</student>
+		</studentGroup>
+	</teacher>
+	<teacher name = "Elizabeth King" faculty = "Faculty of Economics">
+		<studyPlan>
+			<subject name = "Principles of Microeconomics" hours = "35">
+				<auditorium>"50"</auditorium>
+				<auditorium>"52"</auditorium>
+				<auditorium>"55"</auditorium>
+			</subject>
+		</studyPlan>
+		<studentGroup name = "EC-13">
+			<student>"Isaac Bell"</student>
+			<student>"Audrey Morgan"</student>
+			<student>"Gabriel Rogers"</student>
+			<student>"Natalie Reed"</student>
+			<student>"Zoe Morris"</student>
+			<student>"Levi Sanchez"</student>
+			<student>"Ella Stewart"</student>
+			<student>"Jack Collins"</student>
+			<student>"Lily Edwards"</student>
+			<student>"Wyatt Evans"</student>
+		</studentGroup>
+	</teacher>
+	<teacher name = "Chloe Parker" department = "Department of Theoretical and Experimental Physics">
+		<studyPlan>
+			<subject name = "Quantum Mechanics" hours = "40">
+				<auditorium>"301"</auditorium>
+				<auditorium>"302"</auditorium>
+				<auditorium>"303"</auditorium>
+			</subject>
+		</studyPlan>
+		<studentGroup name = "PH-23">
+			<student>"Owen Campbell"</student>
+			<student>"Grace Phillips"</student>
+			<student>"Joseph Turner"</student>
+			<student>"Aria Roberts"</student>
+			<student>"David Mitchell"</student>
+			<student>"Victoria Carter"</student>
+			<student>"Samuel Nelson"</student>
+			<student>"Henry Baker"</student>
+			<student>"Madison Adams"</student>
+			<student>"Sebastian Wright"</student>
+		</studentGroup>
+	</teacher>
+	<teacher name = "Lucas Hall" faculty = "Faculty of History" department = "Department of Theoretical and Experimental Physics" position = "professor">
+		<studyPlan>
+			<subject name = "History" hours = "42">
+				<auditorium>"404"</auditorium>
+				<auditorium>"405"</auditorium>
+				<auditorium>"406"</auditorium>
+			</subject>
+		</studyPlan>
+		<studentGroup name = "H-33">
+			<student>"Charlotte Lee"</student>
+			<student>"Alexander Martin"</student>
+			<student>"Mia Jackson"</student>
+			<student>"Harper Bennett"</student>
+			<student>"Mason Cooper"</student>
+			<student>"Lily Foster"</student>
+			<student>"Ethan Griffin"</student>
+		</studentGroup>
+	</teacher>
+	<teacher name = "Felix Riley" faculty = "Faculty of Geography" department = "Department of Physical and Human Geography" email = "felix2611@knu.com">
+		<studyPlan>
+			<subject name = "Geography" hours = "36">
+				<auditorium>"22"</auditorium>
+				<auditorium>"23"</auditorium>
+				<auditorium>"24"</auditorium>
+			</subject>
+		</studyPlan>
+		<studentGroup name = "G-41">
+			<student>"Owen Wallace"</student>
+			<student>"Emma Vaughn"</student>
+			<student>"Leo Thornton"</student>
+			<student>"Nora Simmons"</student>
+			<student>"Violet Foster"</student>
+			<student>"Miles Graham"</student>
+			<student>"Clara Hamilton"</student>
+		</studentGroup>
+	</teacher>
+	<teacher name = "Penelope Cross" faculty = "Faculty of Mechanics and Mathematics" position = "docent">
+		<studyPlan>
+			<subject name = "Discrete Mathematics" hours = "35">
+				<auditorium>"510"</auditorium>
+				<auditorium>"511"</auditorium>
+				<auditorium>"512"</auditorium>
+			</subject>
+		</studyPlan>
+		<studentGroup name = "MM-24">
+			<student>"Leo Young"</student>
+			<student>"Naomi White"</student>
+			<student>"Julian Fox"</student>
+			<student>"Maya Greene"</student>
+			<student>"Tristan Hayes"</student>
+			<student>"Cecilia Irving"</student>
+			<student>"Benjamin Lane"</student>
+		</studentGroup>
+	</teacher>
+	<teacher name = "Eleanor Brooks" department = "Department of Clinical and Developmental Psychology" position = "docent" email = "eleanor1507@knu.ua">
+		<studyPlan>
+			<subject name = "Cognitive Psychology" hours = "25">
+				<auditorium>"415"</auditorium>
+				<auditorium>"416"</auditorium>
+				<auditorium>"417"</auditorium>
+			</subject>
+		</studyPlan>
+		<studentGroup name = "CDP-11">
+			<student>"Miles Carter"</student>
+			<student>"Sophie Daniels"</student>
+			<student>"Harrison Evans"</student>
+			<student>"Clara Fisher"</student>
+			<student>"Owen Grant"</student>
+			<student>"Lydia Harper"</student>
+			<student>"Isla Simmons"</student>
+		</studentGroup>
+	</teacher>
+</schedule>
