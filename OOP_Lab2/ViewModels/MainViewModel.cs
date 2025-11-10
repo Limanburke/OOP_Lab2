@@ -47,7 +47,6 @@ namespace OOP_Lab2.ViewModels
         [ObservableProperty] private string pickerAttributeText = "Upload file to view attributes";
 
         [ObservableProperty] private string selectedType = "SAX API";
-        [ObservableProperty] private ObservableCollection<string> parsedAttributes = new();
 
         [ObservableProperty]
         private ObservableCollection<string> types = new ObservableCollection<string>
@@ -106,9 +105,6 @@ namespace OOP_Lab2.ViewModels
                         OnPropertyChanged(nameof(AttributeValues));
                         OnPropertyChanged(nameof(AttributeNames));
 
-                        ParsedAttributes.Clear();
-                        foreach (var key in result.Keys)
-                            ParsedAttributes.Add(key);
                         if (result.Count >= 1) AttributeValues1 = result.ElementAt(0).Value;
                         if (result.Count >= 2) AttributeValues2 = result.ElementAt(1).Value;
                         if (result.Count >= 3) AttributeValues3 = result.ElementAt(2).Value;
